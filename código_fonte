@@ -1,4 +1,6 @@
 //Distancia Mínima em centimetros
+// Alexandre Piazza & Sheylla Meazza
+
 const int distancia_c = 10; 
 
 //Portas do Arduino
